@@ -16,6 +16,7 @@ class ApiKeyHeaderNetworkInterceptor @Inject constructor(@ApplicationContext val
         }
         val originalRequest = chain.request()
         val newRequestBuilder = originalRequest.newBuilder().apply {
+            addHeader("Content-Type","application/json")
             addHeader("key","value")
             addHeader("key2","value2")
         }.build()
