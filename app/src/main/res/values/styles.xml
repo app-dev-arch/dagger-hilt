@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="grayText12">
+        <item name="android:textSize">@dimen/_12dp</item>
+        <item name="color">@color/gray</item>
+    </style>
+    <style name="whiteText12">
+        <item name="android:textSize">@dimen/_12dp</item>
+        <item name="color">@color/white</item>
+    </style>
+</resources>

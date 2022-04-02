@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppArchitectWithDaggerHilt</string>
+    <string name="email">Email :</string>
+    <string name="pass">Password :</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <!--validation messages-->
+    <string name="please_enter_email">Please enter email..</string>
+    <string name="please_enter_pass">Please enter password..</string>
+    <string name="noInternetConnection">No Internet Connection</string>
+</resources>
