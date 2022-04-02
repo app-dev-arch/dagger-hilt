@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AppArchitectWithDaggerHilt</string>
+    <string name="app_name">DaggerHilt</string>
     <string name="email">Email :</string>
     <string name="pass">Password :</string>
     <string name="login">Login</string>
